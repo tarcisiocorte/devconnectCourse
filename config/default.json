@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb://admin:1234.Abcd@ds363118.mlab.com:63118/devconnect2",
-  "jwtSecret": "mysecrettoken"
-}
